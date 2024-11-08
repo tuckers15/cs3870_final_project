@@ -1,1 +1,1 @@
-# cs3870_final_project
+# CS3870 Final Project
